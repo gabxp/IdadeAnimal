@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\bin\Debug\IdadeCanina.exe.config
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\bin\Debug\IdadeCanina.exe
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\bin\Debug\IdadeCanina.pdb
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\obj\Debug\IdadeCanina.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\obj\Debug\IdadeCanina.Properties.Resources.resources
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\obj\Debug\IdadeCanina.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\obj\Debug\IdadeCanina.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\obj\Debug\IdadeCanina.exe
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\obj\Debug\IdadeCanina.pdb
+C:\Users\gabri\source\repos\IdadeCanina\IdadeCanina\obj\Debug\IdadeCanina.frmCachorro.resources
